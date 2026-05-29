@@ -1,0 +1,32 @@
+[
+    {
+        "ID": 101,
+        "Name": "Anu",
+        "Age": 18,
+        "Department": "Cse",
+        "Courses": {
+            "python": 98,
+            "AI": 87
+        }
+    },
+    {
+        "ID": 103,
+        "Name": "Manu",
+        "Age": 19,
+        "Department": "CSe",
+        "Courses": {
+            "python": 67,
+            "Ai": 98
+        }
+    },
+    {
+        "ID": 102,
+        "Name": "Ram",
+        "Age": 19,
+        "Department": "ECE",
+        "Courses": {
+            "Electrical": 86,
+            "Maths": 95
+        }
+    }
+]
